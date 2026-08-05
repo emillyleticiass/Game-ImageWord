@@ -26,9 +26,9 @@ Trata-se de um jogo desenvolvido em HTML, CSS, JavaScript e Bootstrap com o obje
 
 ![game](imagens/game.png)
 
-![[Captura de tela 2026-08-04 232221.png]]
+![erro](imagens/erro.png)
 
-![[Captura de tela 2026-08-04 231935.png]]
+![sucess](imagens/sucess.png)
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
