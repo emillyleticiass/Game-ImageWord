@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30762122/JOGO.IMAGEWORD.md)
 
 # Jogo - ImageWord🖼️🔠
 
