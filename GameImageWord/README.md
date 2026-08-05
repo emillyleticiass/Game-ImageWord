@@ -24,7 +24,7 @@ Trata-se de um jogo desenvolvido em HTML, CSS, JavaScript e Bootstrap com o obje
 
 ## 📸Imagens do Projeto
 
-![[Captura de tela 2026-08-04 231909.png]]
+![game](GameImageWord/imagens/game.png)
 
 ![[Captura de tela 2026-08-04 232221.png]]
 
